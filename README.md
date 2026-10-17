@@ -70,4 +70,4 @@ I'm a **Senior Software Engineering student** and **Mobile & Software Developer*
 - 💼 **LinkedIn:** https://www.linkedin.com/in/turgut-efekan-ko%C3%A7-3305362b3/
 - ✉️ **Email:** efekkoc@gmail.com
 - 🌐 **GitHub:** [@efekkoc](https://github.com/efekkoc)
- . 
+ .. 
