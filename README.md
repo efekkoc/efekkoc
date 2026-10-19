@@ -4,7 +4,7 @@
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/Organization-AquaForge%20Ecosystem-00c853?style=for-the-badge&logo=github&logoColor=white" alt="AquaForge Ecosystem" /></a>
   <a href="https://github.com/efekkoc"><img src="https://img.shields.io/badge/Founder%20%26%20Lead%20Architect-%40efekkoc-38bdf8?style=for-the-badge" alt="Founder & Architect" /></a>
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/PaperMC-1.20.x%20--%201.21.11-E53935?style=for-the-badge&logo=curseforge&logoColor=white" alt="PaperMC 1.20.x - 1.21.11" /></a>
-  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-22%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="22 Flagship Plugins + Studio" /></a>
+  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-23%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="23 Flagship Plugins + Studio" /></a>
 </p>
 
 I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer**, and the **Founder & Lead Architect of [AquaForge Ecosystem](https://github.com/aquaforge-mc)**. I specialize in high-concurrency game system engineering (**Java 21 / PaperMC**), modern full-stack web tooling (**React 18, TypeScript & WebSockets**), mobile software architecture (**Flutter & Dart**), and autonomous GenAI pipelines (**Python & Google Flow/Veo**).
@@ -13,7 +13,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 
 ### 🔭 Current Focus & Highlights
 
-- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **22 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
+- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **23 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
 - 🗺️ **High-Performance Game Graphics & Telemetry:** Built [**AquaMap**](https://github.com/efekkoc/AquaMap) (60 FPS real-time canvas minimap & HUD radar) and [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) (real-time sliding CPS & raycast anti-cheat telemetry).
 - 📱 **Mobile App Development:** Architecting offline-first, reactive mobile applications with **Flutter & Dart** (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest) and [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
 - 🤖 **Autonomous AI Studios:** Building end-to-end automated media generation pipelines leveraging Python and Google GenAI vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio)).
@@ -58,6 +58,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 #### 🛡️ Security, Moderation & Combat
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
+| 🔒 [**AquaAuth**](https://github.com/efekkoc/AquaAuth) | `Java 21` `Auth & Login` `Salted SHA-256` | Enterprise player registration, password confirmation & session lockdown gatekeeper (1.20.x – 1.21.11) |
 | 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `TOTP 2FA` `Lockdown` | Enterprise 2FA TOTP Google Authenticator & session lockdown guard |
 | 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord alerts |
 | 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze & live invsee |
