@@ -4,7 +4,7 @@
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/Organization-AquaForge%20Ecosystem-00c853?style=for-the-badge&logo=github&logoColor=white" alt="AquaForge Ecosystem" /></a>
   <a href="https://github.com/efekkoc"><img src="https://img.shields.io/badge/Founder%20%26%20Lead%20Architect-%40efekkoc-38bdf8?style=for-the-badge" alt="Founder & Architect" /></a>
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/PaperMC-1.20.x%20--%201.21.11-E53935?style=for-the-badge&logo=curseforge&logoColor=white" alt="PaperMC 1.20.x - 1.21.11" /></a>
-  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-20%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="20 Flagship Plugins + Studio" /></a>
+  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-21%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="21 Flagship Plugins + Studio" /></a>
 </p>
 
 I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer**, and the **Founder & Lead Architect of [AquaForge Ecosystem](https://github.com/aquaforge-mc)**. I specialize in high-concurrency game system engineering (**Java 21 / PaperMC**), modern full-stack web tooling (**React 18, TypeScript & WebSockets**), mobile software architecture (**Flutter & Dart**), and autonomous GenAI pipelines (**Python & Google Flow/Veo**).
@@ -13,7 +13,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 
 ### 🔭 Current Focus & Highlights
 
-- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **20 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
+- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **21 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
 - 🗺️ **High-Performance Game Graphics & Telemetry:** Built [**AquaMap**](https://github.com/efekkoc/AquaMap) (60 FPS real-time canvas minimap & HUD radar) and [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) (real-time sliding CPS & raycast anti-cheat telemetry).
 - 📱 **Mobile App Development:** Architecting offline-first, reactive mobile applications with **Flutter & Dart** (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest) and [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
 - 🤖 **Autonomous AI Studios:** Building end-to-end automated media generation pipelines leveraging Python and Google GenAI vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio)).
@@ -84,6 +84,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 #### 🌐 World, Social & Server Utilities
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
+| 🏛️ [**AquaNations**](https://github.com/efekkoc/AquaNations) | `Java 21` `Towny` `1.21 Display` | Enterprise civilizations, towns, nations & 3D display monuments engine (1.20.x – 1.21.11) |
 | 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `Java 21` `Chunk Claims` `Particles` | Chunk-based land claiming with interactive particle borders & trust delegation |
 | 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast & item showcase |
 | 📊 [**AquaScoreboard**](https://github.com/efekkoc/AquaScoreboard) | `Java 21` `MiniMessage` `Scoreboard` | Flicker-free RGB sidebar scoreboard & modern Tablist header/footer engine |
