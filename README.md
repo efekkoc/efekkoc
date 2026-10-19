@@ -57,14 +57,14 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | ⚡ [**AquaForge**](https://github.com/efekkoc/aquaforge) | `React 18` `TypeScript` `Node.js` `WebSockets` | Next-Gen Minecraft server orchestrator, real-time diagnostic engine & marketplace |
-| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Paper 1.21.x için modsuz, istemcisiz canlı mini harita, radar ve HUD pusula eklentisi |
-| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `Paper 1.21.4` `TOTP` | Kurumsal 2FA Google Authenticator & Admin oturum dondurma koruması |
-| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | 1.21.4 Data Components ile çalışan 6 efsanevi rün ve sürükle-bırak soketleme motoru |
-| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Kayan pencere CPS & vektörel reach hile tespit modülü ve Discord/AquaForge entegrasyonu |
-| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | 40 özel balık türü, 10 kademeli RPG oltası ve sarma mini oyunu içeren balıkçılık eklentisi |
-| 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI destekli, oyunlaştırılmış ada ekosistemine sahip akıllı besin & kalori takip uygulaması |
-| ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Akıllı ilaç takip ve kişisel sağlık asistanı (yerel bildirim & PDF raporlama) |
-| 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Google Flow & Veo 3.1 AI ile otonom 3D viral video üretim stüdyosu |
+| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Clientless 60 FPS live canvas minimap, player radar & HUD compass engine for Paper 1.21.4 |
+| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `Paper 1.21.4` `TOTP` | Enterprise 2FA TOTP (Google Authenticator) & session lockdown guard for Paper 1.21.4 |
+| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | Modern 1.21.4 Data Components runic matrix engine with drag-and-drop socketing & particle auras |
+| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord webhook triage |
+| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & bossbars |
+| 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
+| ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
+| 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Autonomous viral 3D video generation studio leveraging Google Flow & Veo 3.1 AI |
 
 ---
 
