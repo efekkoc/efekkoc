@@ -69,6 +69,13 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 | 📈 [**AquaSkills**](https://github.com/efekkoc/AquaSkills) | `Java 21` `MMORPG` `Action Bar` | MMORPG character leveling, attribute stat boosts, and real-time action bar XP telemetry (1.20.x – 1.21.11) |
 | 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast, mention pings & held item showcase (1.20.x – 1.21.11) |
 | 🎫 [**AquaPass**](https://github.com/efekkoc/AquaPass) | `Java 21` `Battle Pass` `GUI` | Seasonal Battle Pass engine with Free & Premium tracks, daily quests, and 54-slot virtual GUI (1.20.x – 1.21.11) |
+| 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `Java 21` `Auction House` `Economy` | High-performance global auction house, player market listings & return mailbox engine (1.20.x – 1.21.11) |
+| 🌀 [**AquaWarps**](https://github.com/efekkoc/AquaWarps) | `Java 21` `Safe-RTP` `Teleport` | Spawn, personal homes, public warps, peer TPA & intelligent raycast safe-wilderness RTP (1.20.x – 1.21.11) |
+| 🎯 [**AquaBounties**](https://github.com/efekkoc/AquaBounties) | `Java 21` `Head Bounties` `Compass` | Player head bounties, dynamic hunter tracking compass & PvP rivalry leaderboards (1.20.x – 1.21.11) |
+| ⚡ [**AquaEnchants**](https://github.com/efekkoc/AquaEnchants) | `Java 21` `VeinMiner` `Enchants` | Modern 1.21.x custom enchantments with VeinMiner, Timber, Auto-Smelt and Telepathy (1.20.x – 1.21.11) |
+| 📊 [**AquaScoreboard**](https://github.com/efekkoc/AquaScoreboard) | `Java 21` `MiniMessage` `Scoreboard` | Flicker-free RGB sidebar scoreboard & modern Tablist header/footer engine with MiniMessage (1.20.x – 1.21.11) |
+| 👑 [**AquaRanks**](https://github.com/efekkoc/AquaRanks) | `Java 21` `In-Memory` `Prefixes` | Lightweight in-memory rank management, overhead name tags, and permission cascades (1.20.x – 1.21.11) |
+| ⚔️ [**AquaCombat**](https://github.com/efekkoc/AquaCombat) | `Java 21` `Anti-CombatLog` `BossBar` | Anti-CombatLog engine with notched BossBar timer, command blocking, and inventory drops (1.20.x – 1.21.11) |
 | 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & bossbars (1.20.x – 1.21.11) |
 | 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
 | ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
