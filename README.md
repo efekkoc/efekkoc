@@ -4,7 +4,7 @@
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/Organization-AquaForge%20Ecosystem-00c853?style=for-the-badge&logo=github&logoColor=white" alt="AquaForge Ecosystem" /></a>
   <a href="https://github.com/efekkoc"><img src="https://img.shields.io/badge/Founder%20%26%20Lead%20Architect-%40efekkoc-38bdf8?style=for-the-badge" alt="Founder & Architect" /></a>
   <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/PaperMC-1.20.x%20--%201.21.11-E53935?style=for-the-badge&logo=curseforge&logoColor=white" alt="PaperMC 1.20.x - 1.21.11" /></a>
-  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-24%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="24 Flagship Plugins + Studio" /></a>
+  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-25%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="25 Flagship Plugins + Studio" /></a>
 </p>
 
 I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer**, and the **Founder & Lead Architect of [AquaForge Ecosystem](https://github.com/aquaforge-mc)**. I specialize in high-concurrency game system engineering (**Java 21 / PaperMC**), modern full-stack web tooling (**React 18, TypeScript & WebSockets**), mobile software architecture (**Flutter & Dart**), and autonomous GenAI pipelines (**Python & Google Flow/Veo**).
@@ -13,7 +13,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 
 ### 🔭 Current Focus & Highlights
 
-- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **24 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
+- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **25 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
 - 🗺️ **High-Performance Game Graphics & Telemetry:** Built [**AquaMap**](https://github.com/efekkoc/AquaMap) (60 FPS real-time canvas minimap & HUD radar) and [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) (real-time sliding CPS & raycast anti-cheat telemetry).
 - 📱 **Mobile App Development:** Architecting offline-first, reactive mobile applications with **Flutter & Dart** (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest) and [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
 - 🤖 **Autonomous AI Studios:** Building end-to-end automated media generation pipelines leveraging Python and Google GenAI vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio)).
@@ -64,9 +64,10 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 | 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze & live invsee |
 | ⚔️ [**AquaCombat**](https://github.com/efekkoc/AquaCombat) | `Java 21` `Anti-CombatLog` `BossBar` | PvP tag tracker with notched BossBar timer, command block & combat drop |
 
-#### 💰 Economy & Commerce
+#### 💰 Economy, Monetization & Web Store
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
+| 👑 [**AquaVIP**](https://github.com/efekkoc/AquaVIP) | `Java 21` `Monetization` `Web-Store` | Enterprise web-store delivery sync, timed subscriptions, full server priority bypass & perks suite (1.20.x – 1.21.11) |
 | 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `Java 21` `Vault API` `Banking` | Zero-lag banking & economy engine with Vault provider, interest & transfers |
 | 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `Java 21` `Auction House` `Economy` | High-performance auction house, player market listings & return mailbox |
 | 🎯 [**AquaBounties**](https://github.com/efekkoc/AquaBounties) | `Java 21` `Head Bounties` `Compass` | Player head bounties, dynamic hunter tracking compass & PvP rivalry boards |
