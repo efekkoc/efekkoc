@@ -84,7 +84,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 #### 🌐 World, Social & Server Utilities
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
-| 🪦 [**AquaSurvival**](https://github.com/efekkoc/AquaSurvival) | `Java 21` `Survival SMP` `1.21 Display` | Enterprise survival & SMP mechanics engine (3D Graves, BossBar sleep, silk spawners & elevators) |
+| 🪦 [**AquaSurvival**](https://github.com/efekkoc/AquaSurvival) | `Java 21` `Survival SMP` `1.21 Display` | Enterprise survival & SMP engine (Spawn sanctuary, no-hunger, 1-player sleep, 3D graves & elevators) |
 | 🏛️ [**AquaNations**](https://github.com/efekkoc/AquaNations) | `Java 21` `Towny` `1.21 Display` | Enterprise civilizations, towns, nations & 3D display monuments engine (1.20.x – 1.21.11) |
 | 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `Java 21` `Chunk Claims` `Particles` | Chunk-based land claiming with interactive particle borders & trust delegation |
 | 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast & item showcase |
