@@ -57,15 +57,19 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | ⚡ [**AquaForge**](https://github.com/efekkoc/aquaforge) | `React 18` `TypeScript` `Node.js` `WebSockets` | Next-Gen Minecraft server orchestrator, real-time diagnostic engine & marketplace |
-| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Clientless 60 FPS live canvas minimap, player radar & HUD compass engine for Paper 1.20.x – 1.21.4 |
-| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `Paper 1.21.4` `TOTP` | Enterprise 2FA TOTP (Google Authenticator) & session lockdown guard for Paper 1.20.x – 1.21.4 |
-| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | Modern 1.20.x – 1.21.4 Data Components runic matrix engine with drag-and-drop socketing & particle auras |
-| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord webhook triage |
-| 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `Java 21` `Vault API` `Banking` | High-performance banking & economy engine with Vault provider, interest rates & peer transfers |
-| 🎁 [**AquaCrates**](https://github.com/efekkoc/AquaCrates) | `Java 21` `3D Particles` `Loot` | 3D particle spiral animated loot boxes, sound pitch escalations, and guaranteed pity rewards |
-| 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze lockdown, and live invsee inspector |
-| ⚔️ [**AquaDungeons**](https://github.com/efekkoc/AquaDungeons) | `Java 21` `Trial Spawner` `BossBar` | Procedural wave-based mob arenas, Trial Spawner boss encounters, and multi-phase BossBars |
-| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & bossbars |
+| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Clientless 60 FPS live canvas minimap, player radar & HUD compass engine for Paper 1.20.x – 1.21.11 |
+| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `Paper 1.21.11` `TOTP` | Enterprise 2FA TOTP (Google Authenticator) & session lockdown guard for Paper 1.20.x – 1.21.11 |
+| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | Modern 1.20.x – 1.21.11 Data Components runic matrix engine with drag-and-drop socketing & particle auras |
+| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord webhook triage (1.20.x – 1.21.11) |
+| 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `Java 21` `Vault API` `Banking` | High-performance banking & economy engine with Vault provider, interest rates & peer transfers (1.20.x – 1.21.11) |
+| 🎁 [**AquaCrates**](https://github.com/efekkoc/AquaCrates) | `Java 21` `3D Particles` `Loot` | 3D particle spiral animated loot boxes, sound pitch escalations, and guaranteed pity rewards (1.20.x – 1.21.11) |
+| 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze lockdown, and live invsee inspector (1.20.x – 1.21.11) |
+| ⚔️ [**AquaDungeons**](https://github.com/efekkoc/AquaDungeons) | `Java 21` `Trial Spawner` `BossBar` | Procedural wave-based mob arenas, Trial Spawner boss encounters, and multi-phase BossBars (1.20.x – 1.21.11) |
+| 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `Java 21` `Chunk Claims` `Particles` | Chunk-based land claiming with interactive particle borders and trust access delegation (1.20.x – 1.21.11) |
+| 📈 [**AquaSkills**](https://github.com/efekkoc/AquaSkills) | `Java 21` `MMORPG` `Action Bar` | MMORPG character leveling, attribute stat boosts, and real-time action bar XP telemetry (1.20.x – 1.21.11) |
+| 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast, mention pings & held item showcase (1.20.x – 1.21.11) |
+| 🎫 [**AquaPass**](https://github.com/efekkoc/AquaPass) | `Java 21` `Battle Pass` `GUI` | Seasonal Battle Pass engine with Free & Premium tracks, daily quests, and 54-slot virtual GUI (1.20.x – 1.21.11) |
+| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & bossbars (1.20.x – 1.21.11) |
 | 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
 | ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
 | 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Autonomous viral 3D video generation studio leveraging Google Flow & Veo 3.1 AI |
