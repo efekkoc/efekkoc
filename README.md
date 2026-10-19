@@ -1,19 +1,108 @@
 # Hi, I'm Efekan 👋
 
-I'm a **Senior Software Engineering student** and **Systems & Full-Stack Developer** passionate about building clean, user-centric mobile applications, high-performance distributed systems, and intelligent automation pipelines. Today I work at the intersection of **Java 21 / PaperMC game systems**, **React & TypeScript full-stack tooling**, and **Flutter & Generative AI workflows**, turning creative ideas into scalable, real-world software.
+<p align="left">
+  <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/Organization-AquaForge%20Ecosystem-00c853?style=for-the-badge&logo=github&logoColor=white" alt="AquaForge Ecosystem" /></a>
+  <a href="https://github.com/efekkoc"><img src="https://img.shields.io/badge/Founder%20%26%20Lead%20Architect-%40efekkoc-38bdf8?style=for-the-badge" alt="Founder & Architect" /></a>
+  <a href="https://github.com/aquaforge-mc"><img src="https://img.shields.io/badge/PaperMC-1.20.x%20--%201.21.11-E53935?style=for-the-badge&logo=curseforge&logoColor=white" alt="PaperMC 1.20.x - 1.21.11" /></a>
+  <a href="https://github.com/efekkoc/aquaforge"><img src="https://img.shields.io/badge/Flagship%20Suite-20%20Plugins%20%2B%20Studio-blueviolet?style=for-the-badge" alt="20 Flagship Plugins + Studio" /></a>
+</p>
+
+I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer**, and the **Founder & Lead Architect of [AquaForge Ecosystem](https://github.com/aquaforge-mc)**. I specialize in high-concurrency game system engineering (**Java 21 / PaperMC**), modern full-stack web tooling (**React 18, TypeScript & WebSockets**), mobile software architecture (**Flutter & Dart**), and autonomous GenAI pipelines (**Python & Google Flow/Veo**).
 
 ---
 
-### 🔭 What I'm working on
+### 🔭 Current Focus & Highlights
 
-- ⚡ **High-Performance & Game Systems:** Designing modless, concurrent server-side plugins, real-time HUD mechanics, and orchestrators using **Java 21** and PaperMC (e.g., [**AquaForge**](https://github.com/efekkoc/aquaforge), [**AquaMap**](https://github.com/efekkoc/AquaMap), [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity), [**AquaRunes**](https://github.com/efekkoc/AquaRunes), [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog), [**AquaFishing**](https://github.com/efekkoc/AquaFishing)).
-- 📱 **Mobile App Development:** Reactive, performant, and clean mobile applications using **Flutter & Dart** with offline-first architectures (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest), [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
-- 🤖 **AI & Autonomous Pipelines:** End-to-end automated media studios and GenAI pipelines leveraging **Python** and cutting-edge vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio) with Google Flow & Veo 3.1).
-- 🧪 **Architecture & Tooling:** Deep-diving into clean architecture, real-time WebSocket telemetry, local persistence (Hive, SQLite), and developer toolchains.
+- ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **20 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
+- 🗺️ **High-Performance Game Graphics & Telemetry:** Built [**AquaMap**](https://github.com/efekkoc/AquaMap) (60 FPS real-time canvas minimap & HUD radar) and [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) (real-time sliding CPS & raycast anti-cheat telemetry).
+- 📱 **Mobile App Development:** Architecting offline-first, reactive mobile applications with **Flutter & Dart** (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest) and [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
+- 🤖 **Autonomous AI Studios:** Building end-to-end automated media generation pipelines leveraging Python and Google GenAI vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio)).
 
 ---
 
-### 🛠 Tech I work with
+### ⚡ AquaForge Ecosystem in Action
+
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td align="center" width="30%">
+        <img src="https://raw.githubusercontent.com/efekkoc/aquaforge/main/docs/screenshots/aquaforge_logo.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" alt="AquaForge Logo" />
+        <br /><sub><b>AquaForge Official Brand</b></sub>
+      </td>
+      <td align="center" width="70%">
+        <img src="https://raw.githubusercontent.com/efekkoc/aquaforge/main/docs/screenshots/aquaforge_dashboard.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" alt="AquaForge Studio Dashboard" />
+        <br /><sub><b>AquaForge Studio Orchestrator & Live Diagnostic Engine</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://raw.githubusercontent.com/efekkoc/aquaforge/main/docs/screenshots/aquamap_radar.png" width="100%" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" alt="AquaMap 60 FPS Canvas Minimap" />
+        <br /><sub><b>AquaMap 60 FPS Canvas Map, Chunk Grid & Player Radar Engine</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏛️ AquaForge Ecosystem Flagship Suite (Paper 1.20.x – 1.21.11)
+
+> All plugins are authored and maintained by **[@efekkoc](https://github.com/efekkoc)** under the **[AquaForge Ecosystem](https://github.com/aquaforge-mc)**, engineered with zero external library bloat, multi-threaded async architectures, and full compatibility from Paper 1.20 through 1.21.11.
+
+#### 🎛️ Studio & Graphics Engine
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| ⚡ [**AquaForge**](https://github.com/efekkoc/aquaforge) | `React 18` `TypeScript` `WebSockets` | Full-stack server studio, 1-Click Setup Wizard, edge tunnel & plugin manager |
+| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Modless 60 FPS live canvas minimap, player radar & HUD compass engine |
+
+#### 🛡️ Security, Moderation & Combat
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `TOTP 2FA` `Lockdown` | Enterprise 2FA TOTP Google Authenticator & session lockdown guard |
+| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord alerts |
+| 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze & live invsee |
+| ⚔️ [**AquaCombat**](https://github.com/efekkoc/AquaCombat) | `Java 21` `Anti-CombatLog` `BossBar` | PvP tag tracker with notched BossBar timer, command block & combat drop |
+
+#### 💰 Economy & Commerce
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `Java 21` `Vault API` `Banking` | Zero-lag banking & economy engine with Vault provider, interest & transfers |
+| 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `Java 21` `Auction House` `Economy` | High-performance auction house, player market listings & return mailbox |
+| 🎯 [**AquaBounties**](https://github.com/efekkoc/AquaBounties) | `Java 21` `Head Bounties` `Compass` | Player head bounties, dynamic hunter tracking compass & PvP rivalry boards |
+
+#### ⚔️ RPG Progression, Mechanics & Rewards
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| 📈 [**AquaSkills**](https://github.com/efekkoc/AquaSkills) | `Java 21` `MMORPG` `Action Bar` | MMORPG character leveling, attribute stat boosts & real-time action bar XP |
+| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | 1.20.x – 1.21.11 Data Components rune matrix with socketing & particle auras |
+| ⚡ [**AquaEnchants**](https://github.com/efekkoc/AquaEnchants) | `Java 21` `VeinMiner` `Enchants` | Custom enchantments suite: VeinMiner, Timber, Auto-Smelt, Telepathy & Siphon |
+| ⚔️ [**AquaDungeons**](https://github.com/efekkoc/AquaDungeons) | `Java 21` `Trial Spawner` `BossBar` | Procedural wave-based mob arenas, Trial Spawner bosses & multi-phase BossBars |
+| 🎫 [**AquaPass**](https://github.com/efekkoc/AquaPass) | `Java 21` `Battle Pass` `GUI` | Seasonal Battle Pass engine with Free & Premium tracks and daily quest matrix |
+| 🎁 [**AquaCrates**](https://github.com/efekkoc/AquaCrates) | `Java 21` `3D Particles` `Loot` | 3D particle spiral animated loot boxes, sound pitch escalation & pity rewards |
+| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & weight |
+
+#### 🌐 World, Social & Server Utilities
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `Java 21` `Chunk Claims` `Particles` | Chunk-based land claiming with interactive particle borders & trust delegation |
+| 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast & item showcase |
+| 📊 [**AquaScoreboard**](https://github.com/efekkoc/AquaScoreboard) | `Java 21` `MiniMessage` `Scoreboard` | Flicker-free RGB sidebar scoreboard & modern Tablist header/footer engine |
+| 👑 [**AquaRanks**](https://github.com/efekkoc/AquaRanks) | `Java 21` `In-Memory` `Prefixes` | High-speed in-memory rank management, overhead name tags & permissions |
+| 🌀 [**AquaWarps**](https://github.com/efekkoc/AquaWarps) | `Java 21` `Safe-RTP` `Teleport` | Spawn, homes, warps, peer TPA & intelligent raycast safe wilderness RTP |
+
+---
+
+### 📱 Other Featured Works
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
+| ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
+| 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Autonomous viral 3D video generation studio leveraging Google Flow & Veo 3.1 AI |
+
+---
+
+### 🛠 Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java_21_LTS-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -25,6 +114,12 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+**Game & Server Architecture:**  
+![PaperMC](https://img.shields.io/badge/PaperMC_1.20.x--1.21.11-E53935?style=flat&logo=curseforge&logoColor=white)
+![Adventure](https://img.shields.io/badge/Adventure_MiniMessage-5B8DEF?style=flat&logoColor=white)
+![Data Components](https://img.shields.io/badge/MC_Data_Components_1.21-38BDF8?style=flat&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+
 **Mobile, Web & UI:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -33,15 +128,7 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**AI & Automation:**  
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Systems, Tools & Dev:**  
-![PaperMC](https://img.shields.io/badge/PaperMC_1.21.4-E53935?style=flat&logo=curseforge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+**Tools & Infrastructure:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -49,47 +136,6 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-
----
-
-### 🚀 Highlighted Repositories
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| ⚡ [**AquaForge**](https://github.com/efekkoc/aquaforge) | `React 18` `TypeScript` `Node.js` `WebSockets` | Next-Gen Minecraft server orchestrator, real-time diagnostic engine & marketplace |
-| 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `Java 21` `PaperMC` `Canvas 60FPS` | Clientless 60 FPS live canvas minimap, player radar & HUD compass engine for Paper 1.20.x – 1.21.11 |
-| 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `Java 21` `Paper 1.21.11` `TOTP` | Enterprise 2FA TOTP (Google Authenticator) & session lockdown guard for Paper 1.20.x – 1.21.11 |
-| 🔮 [**AquaRunes**](https://github.com/efekkoc/AquaRunes) | `Java 21` `Data Components` `PDC` | Modern 1.20.x – 1.21.11 Data Components runic matrix engine with drag-and-drop socketing & particle auras |
-| 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `Java 21` `Vector Math` `Webhooks` | Real-time sliding CPS & raycast reach anti-cheat telemetry with Discord webhook triage (1.20.x – 1.21.11) |
-| 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `Java 21` `Vault API` `Banking` | High-performance banking & economy engine with Vault provider, interest rates & peer transfers (1.20.x – 1.21.11) |
-| 🎁 [**AquaCrates**](https://github.com/efekkoc/AquaCrates) | `Java 21` `3D Particles` `Loot` | 3D particle spiral animated loot boxes, sound pitch escalations, and guaranteed pity rewards (1.20.x – 1.21.11) |
-| 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `Java 21` `Vanish` `Moderation` | Unified staff mode (/staff), silent vanish, suspect freeze lockdown, and live invsee inspector (1.20.x – 1.21.11) |
-| ⚔️ [**AquaDungeons**](https://github.com/efekkoc/AquaDungeons) | `Java 21` `Trial Spawner` `BossBar` | Procedural wave-based mob arenas, Trial Spawner boss encounters, and multi-phase BossBars (1.20.x – 1.21.11) |
-| 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `Java 21` `Chunk Claims` `Particles` | Chunk-based land claiming with interactive particle borders and trust access delegation (1.20.x – 1.21.11) |
-| 📈 [**AquaSkills**](https://github.com/efekkoc/AquaSkills) | `Java 21` `MMORPG` `Action Bar` | MMORPG character leveling, attribute stat boosts, and real-time action bar XP telemetry (1.20.x – 1.21.11) |
-| 💬 [**AquaChat**](https://github.com/efekkoc/AquaChat) | `Java 21` `Adventure` `RGB Chat` | RGB MiniMessage gradient chat, multi-channel broadcast, mention pings & held item showcase (1.20.x – 1.21.11) |
-| 🎫 [**AquaPass**](https://github.com/efekkoc/AquaPass) | `Java 21` `Battle Pass` `GUI` | Seasonal Battle Pass engine with Free & Premium tracks, daily quests, and 54-slot virtual GUI (1.20.x – 1.21.11) |
-| 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `Java 21` `Auction House` `Economy` | High-performance global auction house, player market listings & return mailbox engine (1.20.x – 1.21.11) |
-| 🌀 [**AquaWarps**](https://github.com/efekkoc/AquaWarps) | `Java 21` `Safe-RTP` `Teleport` | Spawn, personal homes, public warps, peer TPA & intelligent raycast safe-wilderness RTP (1.20.x – 1.21.11) |
-| 🎯 [**AquaBounties**](https://github.com/efekkoc/AquaBounties) | `Java 21` `Head Bounties` `Compass` | Player head bounties, dynamic hunter tracking compass & PvP rivalry leaderboards (1.20.x – 1.21.11) |
-| ⚡ [**AquaEnchants**](https://github.com/efekkoc/AquaEnchants) | `Java 21` `VeinMiner` `Enchants` | Modern 1.21.x custom enchantments with VeinMiner, Timber, Auto-Smelt and Telepathy (1.20.x – 1.21.11) |
-| 📊 [**AquaScoreboard**](https://github.com/efekkoc/AquaScoreboard) | `Java 21` `MiniMessage` `Scoreboard` | Flicker-free RGB sidebar scoreboard & modern Tablist header/footer engine with MiniMessage (1.20.x – 1.21.11) |
-| 👑 [**AquaRanks**](https://github.com/efekkoc/AquaRanks) | `Java 21` `In-Memory` `Prefixes` | Lightweight in-memory rank management, overhead name tags, and permission cascades (1.20.x – 1.21.11) |
-| ⚔️ [**AquaCombat**](https://github.com/efekkoc/AquaCombat) | `Java 21` `Anti-CombatLog` `BossBar` | Anti-CombatLog engine with notched BossBar timer, command blocking, and inventory drops (1.20.x – 1.21.11) |
-| 🎣 [**AquaFishing**](https://github.com/efekkoc/AquaFishing) | `Java 21` `PaperMC` `BossBar` | Advanced RPG fishing engine featuring 40 custom fish, reeling mini-game & bossbars (1.20.x – 1.21.11) |
-| 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
-| ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
-| 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Autonomous viral 3D video generation studio leveraging Google Flow & Veo 3.1 AI |
-
----
-
-### ⚡ AquaForge & AquaMap In Action
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/efekkoc/aquaforge/main/docs/screenshots/aquaforge_dashboard.png" width="48%" style="border-radius: 8px;" alt="AquaForge Dashboard" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/efekkoc/aquaforge/main/docs/screenshots/aquamap_radar.png" width="48%" style="border-radius: 8px;" alt="AquaMap Radar" />
-</div>
 
 ---
 
@@ -104,6 +150,7 @@ I'm a **Senior Software Engineering student** and **Systems & Full-Stack Develop
 
 ### 📫 Get in touch
 
+- 🏢 **Organization:** [AquaForge Ecosystem](https://github.com/aquaforge-mc)
 - 💼 **LinkedIn:** [Turgut Efekan Koç](https://www.linkedin.com/in/turgut-efekan-ko%C3%A7-3305362b3/)
 - ✉️ **Email:** efekkoc@gmail.com
-- 🌐 **GitHub:** [@efekkoc](https://github.com/efekkoc)
+- 🌐 **GitHub Profile:** [@efekkoc](https://github.com/efekkoc)
