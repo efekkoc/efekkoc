@@ -14,6 +14,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 ### 🔭 Current Focus & Highlights
 
 - ⚡ **Founder & Lead Architect at [AquaForge](https://github.com/aquaforge-mc):** Engineering an enterprise Minecraft server studio and an end-to-end suite of **26 standalone, zero-dependency flagship plugins** designed for Paper **1.20.x – 1.21.11** (optimized for 1.21.1, 1.21.4, and 1.21.11 *Mounts of Mayhem*).
+- 🧠 **AI Vision & Academic Tooling:** Architected [**NoteForge AI**](https://github.com/efekkoc/NoteForge) — next-gen autonomous lecture note digitizer, LaTeX OCR & course knowledge vault with Google Gemini 3.8 Flash & trilingual support ([Live App](https://noteforge-tawny-two.vercel.app)).
 - 🗺️ **High-Performance Game Graphics & Telemetry:** Built [**AquaMap**](https://github.com/efekkoc/AquaMap) (60 FPS real-time canvas minimap & HUD radar) and [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) (real-time sliding CPS & raycast anti-cheat telemetry).
 - 📱 **Mobile App Development:** Architecting offline-first, reactive mobile applications with **Flutter & Dart** (e.g., [**NutriForest**](https://github.com/efekkoc/nutriforest) and [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici)).
 - 🤖 **Autonomous AI Studios:** Building end-to-end automated media generation pipelines leveraging Python and Google GenAI vision/video models (e.g., [**FlowStudio**](https://github.com/efekkoc/FlowStudio)).
@@ -102,6 +103,7 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| ⚡ [**NoteForge AI**](https://github.com/efekkoc/NoteForge) | `Next.js 16` `TypeScript` `Gemini 3.8 Flash` `Tailwind v4` | AI-powered lecture note digitizer, LaTeX OCR & autonomous course vault with trilingual support ([Live Demo](https://noteforge-tawny-two.vercel.app)) |
 | 🌿 [**NutriForest**](https://github.com/efekkoc/nutriforest) | `Flutter` `Dart` `Hive` | AI-powered, gamified island ecosystem nutrition & calorie tracker with offline-first Hive DB |
 | ⏰ [**Sağlık Saatim**](https://github.com/efekkoc/ilac-hatirlatici) | `Flutter` `Dart` `Notifications` | Smart medication tracker and personal health assistant with local scheduling & PDF exports |
 | 🎬 [**FlowStudio**](https://github.com/efekkoc/FlowStudio) | `Python` `Streamlit` `Veo 3.1` | Autonomous viral 3D video generation studio leveraging Google Flow & Veo 3.1 AI |
@@ -127,11 +129,13 @@ I'm a **Senior Software Engineering student**, **Systems & Full-Stack Developer*
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
 **Mobile, Web & UI:**  
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Tools & Infrastructure:**  
